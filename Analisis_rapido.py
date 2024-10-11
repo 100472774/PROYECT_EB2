@@ -35,7 +35,7 @@ import numpy as np
 from sklearn.impute import SimpleImputer
 
 base_path = input('Please enter the base path of the CSV files (include a trailing slash "/"): ')
-
+sasfaafafa
 for i in range(1, 8):
     file_name = f'Locationdistance_eb2prod_{i}.csv'
     file_path = base_path + file_name
